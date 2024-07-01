@@ -229,7 +229,7 @@ body {
 	width:6px;
 	height:6px;
 	margin:-3px 0 0 -3px;
-	background:#fff;
+	background:#ff0000;
 	border-radius:100%;
 	z-index:-1;
 	transform: scale(1.0);
@@ -667,7 +667,7 @@ blockquote p {
 	position:relative;
 	float:left;
 	z-index:20;
-	background:var(--blue-second)
+	background:var(--blue-second);
 	margin:0 0 90px 30px;
 }
 .logo_menu img {
@@ -681,7 +681,7 @@ nav.nav-inner {
 	position: relative;
 }
 .nav-container {
- 	background: var(--blue-second)
+ 	background: var(--blue-second);
 	z-index: 20;
 	padding:20px 0;
 }
@@ -770,7 +770,7 @@ nav.nav-inner {
  	 font-family: 'Teko', sans-serif;
  	-webkit-text-stroke-color:rgba(255,255,255,0.1);
   	-webkit-text-stroke-width: 1px;
-	color: var(--blue-second)
+	color: var(--blue-second);
 }
 /*------share------------------------------------------------*/
 .folio-btn{
@@ -5946,7 +5946,7 @@ nav.nav-inner {
 }
 .fixed-column-wrap_bg:before {
     width: 90px;
-	background: var(--blue-second)
+	background: var(--blue-second);
 }
 .fwc-dec_top , .fwc-dec_right {
     right: 45px;
